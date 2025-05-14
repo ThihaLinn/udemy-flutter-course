@@ -1,0 +1,2 @@
+/home/thl13/drive-1/udemy-flutter-course/quiz/android/app/.cxx/Debug/1t136n1j/x86/CMakeFiles/edit_cache.dir
+/home/thl13/drive-1/udemy-flutter-course/quiz/android/app/.cxx/Debug/1t136n1j/x86/CMakeFiles/rebuild_cache.dir
